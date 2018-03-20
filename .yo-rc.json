@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Chris Martin",
+      "authorEmail": "chris.martin@fourkitchens.com",
+      "authorUrl": ""
+    }
+  }
+}
